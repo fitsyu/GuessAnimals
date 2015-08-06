@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>SplashScreen.qml</file>
+        <file>InfoScreen.qml</file>
+        <file>TestScreen.qml</file>
+        <file>Hint.qml</file>
+        <file>MenuScreen.qml</file>
+        <file>AnimalsScreen.qml</file>
+        <file>AnimalDetailsScreen.qml</file>
+        <file>AnimalsModel.qml</file>
+        <file>AnswerButton.qml</file>
+        <file>StarEmitter.qml</file>
+        <file>ButtonX.qml</file>
+    </qresource>
+    <qresource prefix="/animals-pic">
+        <file>Hewan/angsa.jpg</file>
+        <file>Hewan/ayam.jpg</file>
+        <file>Hewan/babi.jpg</file>
+        <file>Hewan/badak.jpg</file>
+        <file>Hewan/buaya.jpg</file>
+        <file>Hewan/elang.jpg</file>
+        <file>Hewan/gajah.jpg</file>
+        <file>Hewan/kodok.jpg</file>
+        <file>Hewan/kucing.jpg</file>
+        <file>Hewan/kuda.jpg</file>
+        <file>Hewan/lebah.jpg</file>
+        <file>Hewan/monyet.jpg</file>
+        <file>Hewan/sapi.jpg</file>
+        <file>Hewan/serigala.jpg</file>
+        <file>Hewan/simpanse.jpg</file>
+        <file>Hewan/singa.jpg</file>
+        <file>Hewan/tokek.jpg</file>
+        <file>Hewan/ular.jpg</file>
+        <file>Hewan/lumba-lumba.jpg</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>zoo.jpg</file>
+        <file>zoo2.jpg</file>
+        <file>zoo-india.jpg</file>
+        <file>forest.jpg</file>
+        <file>sky.jpg</file>
+        <file>deep-sea.jpg</file>
+        <file>wrong.png</file>
+        <file>correct.png</file>
+        <file>sound.png</file>
+        <file>menu.png</file>
+        <file>animals-grid.png</file>
+        <file>star.png</file>
+    </qresource>
+    <qresource prefix="/animals-sound">
+        <file>Hewan/ular.ogg</file>
+        <file>Hewan/tokek.ogg</file>
+        <file>Hewan/kodok.ogg</file>
+        <file>Hewan/angsa.ogg</file>
+        <file>Hewan/simpanse.ogg</file>
+        <file>Hewan/serigala.ogg</file>
+        <file>Hewan/lumba-lumba.ogg</file>
+        <file>Hewan/kucing.ogg</file>
+        <file>Hewan/babi.ogg</file>
+        <file>Hewan/badak.ogg</file>
+        <file>Hewan/buaya.ogg</file>
+        <file>Hewan/elang.ogg</file>
+        <file>Hewan/gajah.ogg</file>
+    </qresource>
+</RCC>
